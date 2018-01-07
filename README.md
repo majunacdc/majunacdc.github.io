@@ -1,2 +1,2 @@
-# majunacdc.github.io hello world!
+# majunacdc.github.io
 hello world!
