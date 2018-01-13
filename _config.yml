@@ -3,6 +3,10 @@ name: 马俊
 email: majunacdc@outlook.com
 description: 简单的小站
 
+
+
+
+
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
