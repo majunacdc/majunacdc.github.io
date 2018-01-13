@@ -7,13 +7,13 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "First Project"
-project_one_description: Describe your project!
+project_one_description: The first respository I made
 project_one_url: https://github.com/majunacdc/first
 project_one_icon: location_on
 
 project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/majunacdc/first
+project_two_description: The design of stopwatch system
+project_two_url:https://github.com/majunacdc/the-design-of-stopwatch-system
 project_two_icon: photo_camera
 
 
